@@ -402,6 +402,15 @@ footer p {
 }
 
 @media screen and (max-width: 725px) {
+  
+  header .header-nav .header-left {
+    margin-left: 0;
+  }
+  
+  header .header-nav .header-right {
+    margin-right: 0;
+  }
+  
   .top-image {
     height: 90vh;
   }
